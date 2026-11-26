@@ -1,10 +1,10 @@
 ﻿# Desarme a Bomba — Complexidade de Algoritmos
 
-Jogo educacional offline do Grupo 1: Alice, Gustavo, Tiago, Thales H. e Eric.
+Jogo educacional offline do Grupo 1: Alice, Gustavo, Thiago, Thales H. e Eric.
 
 ## Executar
 
-Abra `index.html` diretamente no Chrome ou Edge, inclusive sem internet. No VS Code, abra a pasta do projeto e pressione **F5** para iniciar no Chrome. O Live Server também funciona, mas não é necessário. Não há instalação, servidor ou bibliotecas externas obrigatórios.
+Abra `index.html` diretamente no Chrome ou Edge, inclusive sem internet.
 
 ## Jogar
 
